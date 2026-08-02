@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AegisTrading-Logo.png" width="200">
+  <img src="./AegisTrading-Logo.png" width="200">
 </p>
 
 # Aegis Trading EA
