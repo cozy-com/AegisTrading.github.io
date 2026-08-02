@@ -29,3 +29,33 @@ Please click the EA widget to access and use the products through the MQL5 websi
 
 New products will be released progressively after testing and completion.
 
+
+## EA Portfolio
+
+### Aegis Trend EA
+
+MQL5 Product Widget will be added here.
+
+### Aegis Bitcoin Trend
+
+MQL5 Product Widget will be added here.
+
+### Aegis Aurora EA
+
+MQL5 Product Widget will be added here.
+
+### Aegis XAU EA
+
+MQL5 Product Widget will be added here.
+
+### Aegis BTC Balanced EA
+
+MQL5 Product Widget will be added here.
+
+### Aegis BTC Aggressive Edition
+
+MQL5 Product Widget will be added here.
+
+### Aegis XAU Extreme Edition
+
+MQL5 Product Widget will be added here.
