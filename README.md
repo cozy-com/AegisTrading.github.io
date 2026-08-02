@@ -1,2 +1,3 @@
-# AegisTrading.github.io
-Aegis Trading EA product information and documentation
+# Aegis Trading EA
+Aegis Trading EAの製品情報とドキュメント
+
