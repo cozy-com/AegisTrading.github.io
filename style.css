@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    background: #050505;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 50px 20px;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    color: #d4af37;
+    font-size: 48px;
+    letter-spacing: 3px;
+}
+
+header p {
+    font-size: 20px;
+    color: #cccccc;
+    line-height: 1.8;
+}
+
+
+.portfolio {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+
+h2 {
+    color: #d4af37;
+    font-size: 36px;
+}
+
+
+.card {
+    border: 1px solid #d4af37;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 25px;
+    background: #111;
+}
+
+
+.card h3 {
+    font-size: 28px;
+}
+
+
+.card a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 30px;
+    border-radius: 30px;
+    background: #d4af37;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.card a:hover {
+    opacity: 0.8;
+}
+
+
+footer {
+    margin-top: 50px;
+    padding: 30px;
+    color: #888;
+}
