@@ -34,7 +34,12 @@ New products will be released progressively after testing and completion.
 
 ### Aegis Trend EA
 
-MQL5 Product Widget will be added here.
+<div style="width:400px;text-align:center;line-height:26px;">
+  <a target="_blank" href="https://mql5.com/8cs5r" title="MQL5マーケットから自動売買ロボットAegis Trend EAをダウンロードする">
+    <img src="https://www.mql5.com/ja/market/widget/169080/mid?f=1&fw=html" alt="アルゴリズムトレーディングシステムを販売するストアの中でエキスパートアドバイザーAegis Trend EAを購入する" loading="lazy" width="400" height="60">
+  </a>
+  <div class="mw-copyright"><a href="https://www.metatrader.com/?utm_source=market.widget&utm_medium=link&utm_term=market&utm_content=visit.mql5.market&utm_campaign=202.market.widget" rel="noopener nofollow" target="_blank">MetaTrader World Markets</a></div>
+</div>
 
 ### Aegis Bitcoin Trend
 
