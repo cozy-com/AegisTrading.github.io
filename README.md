@@ -52,20 +52,45 @@ New products will be released progressively after testing and completion.
 
 ### Aegis Aurora EA
 
-MQL5 Product Widget will be added here.
+<div style="width:400px;text-align:center;line-height:26px;">
+  <a target="_blank" href="https://mql5.com/8ct5h" title="MQL5マーケットから自動売買ロボットAegis Aurora EAをダウンロードする">
+    <img src="https://www.mql5.com/ja/market/widget/182314/mid?f=1&fw=html" alt="アルゴリズムトレーディングシステムを販売するストアの中でエキスパートアドバイザーAegis Aurora EAを購入する" loading="lazy" width="400" height="60">
+  </a>
+  <div class="mw-copyright"><a href="https://www.metatrader.com/?utm_source=market.widget&utm_medium=link&utm_term=market&utm_content=visit.mql5.market&utm_campaign=202.market.widget" rel="noopener nofollow" target="_blank">MetaTrader World Markets</a></div>
+</div>
 
 ### Aegis XAU EA
 
-MQL5 Product Widget will be added here.
+<div style="width:400px;text-align:center;line-height:26px;">
+  <a target="_blank" href="https://mql5.com/8ct5i" title="MQL5マーケットから自動売買ロボットAegis XAU EAをダウンロードする">
+    <img src="https://www.mql5.com/ja/market/widget/184871/mid?f=1&fw=html" alt="アルゴリズムトレーディングシステムを販売するストアの中でエキスパートアドバイザーAegis XAU EAを購入する" loading="lazy" width="400" height="60">
+  </a>
+  <div class="mw-copyright"><a href="https://www.metatrader.com/?utm_source=market.widget&utm_medium=link&utm_term=market&utm_content=visit.mql5.market&utm_campaign=202.market.widget" rel="noopener nofollow" target="_blank">MetaTrader World Markets</a></div>
+</div>
 
 ### Aegis BTC Balanced EA
 
-MQL5 Product Widget will be added here.
+<div style="width:400px;text-align:center;line-height:26px;">
+  <a target="_blank" href="https://mql5.com/8ct5j" title="MQL5マーケットから自動売買ロボットAegis BTC Balanced EAをダウンロードする">
+    <img src="https://www.mql5.com/ja/market/widget/186668/mid?f=1&fw=html" alt="アルゴリズムトレーディングシステムを販売するストアの中でエキスパートアドバイザーAegis BTC Balanced EAを購入する" loading="lazy" width="400" height="60">
+  </a>
+  <div class="mw-copyright"><a href="https://www.metatrader.com/?utm_source=market.widget&utm_medium=link&utm_term=market&utm_content=visit.mql5.market&utm_campaign=202.market.widget" rel="noopener nofollow" target="_blank">MetaTrader World Markets</a></div>
+</div>
 
 ### Aegis BTC Aggressive Edition
 
-MQL5 Product Widget will be added here.
+<div style="width:400px;text-align:center;line-height:26px;">
+  <a target="_blank" href="https://mql5.com/8ct5k" title="MQL5マーケットから自動売買ロボットAegis BTC Aggressive Editionをダウンロードする">
+    <img src="https://www.mql5.com/ja/market/widget/187364/mid?f=1&fw=html" alt="アルゴリズムトレーディングシステムを販売するストアの中でエキスパートアドバイザーAegis BTC Aggressive Editionを購入する" loading="lazy" width="400" height="60">
+  </a>
+  <div class="mw-copyright"><a href="https://www.metatrader.com/?utm_source=market.widget&utm_medium=link&utm_term=market&utm_content=visit.mql5.market&utm_campaign=202.market.widget" rel="noopener nofollow" target="_blank">MetaTrader World Markets</a></div>
+</div>
 
 ### Aegis XAU Extreme Edition
 
-MQL5 Product Widget will be added here.
+<div style="width:400px;text-align:center;line-height:26px;">
+  <a target="_blank" href="https://mql5.com/8ct58" title="MQL5マーケットから自動売買ロボットAegis XAU Extreme Editionをダウンロードする">
+    <img src="https://www.mql5.com/ja/market/widget/188313/mid?f=1&fw=html" alt="アルゴリズムトレーディングシステムを販売するストアの中でエキスパートアドバイザーAegis XAU Extreme Editionを購入する" loading="lazy" width="400" height="60">
+  </a>
+  <div class="mw-copyright"><a href="https://www.metatrader.com/?utm_source=market.widget&utm_medium=link&utm_term=market&utm_content=visit.mql5.market&utm_campaign=202.market.widget" rel="noopener nofollow" target="_blank">MetaTrader World Markets</a></div>
+</div>
