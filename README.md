@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AegisTrading-Logo.png" width="200">
+</p>
+
 # Aegis Trading EA
 Product information and documentation for Aegis Trading EA.
 
