@@ -11,9 +11,13 @@ header {
 }
 
 .logo {
-    width: 200px;
-    height: 200px;
-    box-shadow: 0 0 40px rgba(212, 175, 55, 0.35);
+    width: 250px;
+    height: 250px;
+    filter: brightness(1.2);
+    box-shadow:
+        0 0 20px rgba(212, 175, 55, 0.6),
+        0 0 50px rgba(212, 175, 55, 0.4),
+        0 0 90px rgba(212, 175, 55, 0.2);
 }
 
 h1 {
